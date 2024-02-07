@@ -6,4 +6,6 @@ Il dataset contiene colonne come id, org_id, url, tipo, specie, razza primaria e
 
 Sono state proposte diverse attività da risolvere utilizzando questo dataset.
 
+Collaboratori: Marta Bernardelli, Alessia Perri
+
 Risultato 30L/30
